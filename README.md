@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Nagado 🖐️
 
-[![Blog](https://img.shields.io/website?label=MeuPortifolio&style=for-the-badge&url=https://portfolio-pink-beta-21.vercel.app)](https://portfolio-pink-beta-21.vercel.app)
+[![Blog](https://img.shields.io/website?label=MeuPortifolio&style=for-the-badge&url=https://portfolio-pink-beta-21.vercel.app)](https://eduardonagado.vercel.app/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev.EduNagado)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_nagado/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.eduardonagado@gmail.com)
